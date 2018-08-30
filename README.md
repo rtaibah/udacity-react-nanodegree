@@ -1,4 +1,4 @@
-__ Note: This is a consolidated repo where I moved all 3 repos of the course project into this one. Commit activity during the course is no longer available.__
+_Note: This is a consolidated repo where I moved all 3 repos of the course project into this one. Commit activity during the course is no longer available._
 
 # Udacity React Nanodegree
 
