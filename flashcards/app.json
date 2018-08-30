@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "22.0.0",
+    "orientation": "portrait",
+    "name": "Flashy",
+    "description": "The best flashcard ever",
+    "slug": "flashy",
+    "version": ".10",
+    "icon": "./src/assets/img/flashy.png",
+    "notification": {
+      "icon": "./src/assets/img/flashy-icon.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.flashy.exp"
+    },
+    "android": {
+      "versionCode": 2,
+      "package": "org.flashy.exp"
+    }
+  }
+}

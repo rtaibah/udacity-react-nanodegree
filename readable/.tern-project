@@ -1,0 +1,19 @@
+{
+  "libs": [
+      "browser",
+      "react",
+      "ecma5",
+      "ecma6"
+    ],
+  "loadEagerly": [
+      "importantfile.js"
+    ],
+  "plugins": {
+      "node": {},
+      "es_modules": {},
+      "requirejs": {
+            "baseURL": "./",
+            "paths": {}
+          }
+    }
+}
