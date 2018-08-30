@@ -1,3 +1,5 @@
+__ Note: This is a consolidated repo where I moved all 3 repos of the course project into this one. Commit activity during the course is no longer available.__
+
 # Udacity React Nanodegree
 
 ## Projects
@@ -8,9 +10,11 @@ A web application that allows you to select and categorize books you have read, 
 
 ### 2. Readable ✅
 
-A Reddit/HN clone built on React 
+A Reddit/HN clone built on React.
 
 ### 3. Mobile Flashcards ✅
 
-A React Native flashcards app 
+A React Native flashcards app. 
+
+You can view graduation certificate [here](https://printer.udacity.com/v2/certificate/CKFEHTEK/download).
 
